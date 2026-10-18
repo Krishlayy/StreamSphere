@@ -1,0 +1,6 @@
+{
+  "name": "streamsphere",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/" }
+  ]
+}

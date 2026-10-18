@@ -3,8 +3,12 @@
 A modern, full-stack video streaming and content sharing platform built on the **MERN** stack (MongoDB, Express.js, React.js, Node.js) with JWT authentication and HTTP 206 Partial Content byte-range video streaming.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?logo=vercel)
 ![Node](https://img.shields.io/badge/Node.js-22.x-green.svg)
 ![React](https://img.shields.io/badge/React-18.x-61dafb.svg)
+
+> **Live Production Demo**: [https://streamsphere-lemon.vercel.app](https://streamsphere-lemon.vercel.app)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-brightgreen.svg)
 ![Express](https://img.shields.io/badge/Express.js-4.x-black.svg)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-38B2AC.svg)
